@@ -1,0 +1,8 @@
+/.recommenders
+/.metadata
+/PokerStatsClient/bin
+/PokerStatsServer/bin
+/PokerStatsClient/.classpath
+/nbproject/private/
+/build/
+/dist/
